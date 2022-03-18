@@ -1,6 +1,6 @@
 ### BackEnd Engineer
 Good day! I am Jaewon Jung who is interested in Data Science from South Korea.
-If you want to contact me, please leave me a message!
+<br>If you want to contact me, please leave me a message!
 
 ### Interest
 - Python
