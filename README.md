@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm JaeWon</h1>
-<h3 align="center">A passionate Backend developer from South-Korea</h3>
+<h1 align="left">Hi 👋, I'm JaeWon</h1>
+<h3 align="left">A passionate Backend developer from South-Korea</h3>
 
 - 🔭 I’m currently working on **Kyonggi University**
 
