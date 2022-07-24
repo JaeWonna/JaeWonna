@@ -5,7 +5,7 @@ Good day! I am Jaewon Jung who is interested in Data Science from South Korea.
 ### Interest
 - Python
 - Java
-- Spring
+- Android
 <!--
 **JaeWonna/JaeWonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
