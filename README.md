@@ -16,3 +16,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=highsoul09)](https://solved.ac/highsoul09/)
 
 ![JaeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeWonna&theme=dark&show_icons=true)
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
+
