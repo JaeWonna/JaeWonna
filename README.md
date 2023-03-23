@@ -14,3 +14,5 @@
 <p align='left'>Hi Nice to meet you!</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=highsoul09)](https://solved.ac/highsoul09/)
+
+![JaeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeWonna&theme=dark&show_icons=true)
