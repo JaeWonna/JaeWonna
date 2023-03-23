@@ -17,6 +17,6 @@
 
 ![JaeWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeWonna&theme=dark&show_icons=true)
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
-<img alt="SPRING" src ="https://img.shields.io/badge/HTML5-#6DB33F.svg?&style=flat-square&logo=SPRING&logoColor=white"/>
+<img alt="SPRING" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat-square&logo=SPRING&logoColor=white"/>
 
 
