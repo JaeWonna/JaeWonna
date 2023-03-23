@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning Back-end
 - 📝 I regularly write articles on [MY BLOG]
 - My Email is here! 👉 highjae09@gmail.com
-🔭 I am currently studying at [Kyonggi University] as a student.
+- I am currently studying at [Kyonggi University] as a student.
 
 ## Skill
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a>
