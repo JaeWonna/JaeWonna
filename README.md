@@ -3,7 +3,6 @@
 #### 주니어 백엔드 개발자 정재원입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22">
 - 🌱 I'm currently learning Back-end
 - 📝 I regularly write articles on [MY BLOG]
-- My Email is here! 👉 highjae09@gmail.com
 - I am currently studying at [Kyonggi University] as a student.
 
 ## Skill
