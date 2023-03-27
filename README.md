@@ -4,7 +4,6 @@
 - 🌱 I'm currently learning Back-end
 - 📝 I regularly write articles on (https://jaewonna.tistory.com/)
 - I am currently studying at Kyonggi University as a student.
-- 
 
 ## Skill
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a>
