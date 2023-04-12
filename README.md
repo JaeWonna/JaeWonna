@@ -3,8 +3,7 @@
 #### 주니어 백엔드 개발자 정재원입니다.
 - 🌱 I'm currently learning Back-end
 - 📝 I regularly write articles on (https://jaewonna.tistory.com/)
-- I am currently studying at Kyonggi University as a student.
-
+- 
 
 
 ## Skill
