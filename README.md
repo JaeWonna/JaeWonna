@@ -1,10 +1,3 @@
-## README
-
-#### 주니어 백엔드 개발자 정재원입니다.
-- 🌱 I'm currently learning Back-end
-- 📝 I regularly write articles on (https://jaewonna.tistory.com/)
-
-
 ## Skill
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
