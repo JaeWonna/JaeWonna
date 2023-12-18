@@ -6,6 +6,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=highsoul09)](https://solved.ac/highsoul09/)
-
 
